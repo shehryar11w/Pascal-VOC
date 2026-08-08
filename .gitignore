@@ -1,2 +1,4 @@
 /data
 /VOC_YOLO
+config.bat
+node_modules

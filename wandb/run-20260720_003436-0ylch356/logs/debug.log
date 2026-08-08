@@ -1,0 +1,34 @@
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_setup.py:_flush():81] Current SDK version is 0.28.0
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_setup.py:_flush():81] Configure stats pid to 31476
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:setup_run_log_directory():725] Logging user logs to f:\programming\Python\Deep Learning and LLMs\Pascal-VOC\wandb\run-20260720_003436-0ylch356\logs\debug.log
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:setup_run_log_directory():726] Logging internal logs to f:\programming\Python\Deep Learning and LLMs\Pascal-VOC\wandb\run-20260720_003436-0ylch356\logs\debug-internal.log
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:monkeypatch_ipython():644] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000019DB00D5160>
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:init():768] calling init triggers
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:init():773] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'architecture': 'Faster-RCNN Progressive Unfreezing', 'dataset': 'pascal-voc', 'epochs': 15, '_wandb': {}}
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:init():816] starting backend
+2026-07-20 00:34:36,709 INFO    MainThread:31476 [wandb_init.py:init():831] sending inform_init request
+2026-07-20 00:34:37,733 INFO    MainThread:31476 [wandb_init.py:init():836] backend started and connected
+2026-07-20 00:34:37,781 INFO    MainThread:31476 [wandb_run.py:_label_probe_notebook():1276] probe notebook
+2026-07-20 00:34:37,783 INFO    MainThread:31476 [wandb_run.py:_label_probe_notebook():1286] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 501961: character maps to <undefined>
+2026-07-20 00:34:37,784 INFO    MainThread:31476 [wandb_init.py:init():906] updated telemetry
+2026-07-20 00:34:37,786 INFO    MainThread:31476 [wandb_init.py:init():929] communicating run to backend with 90.0 second timeout
+2026-07-20 00:34:38,234 INFO    MainThread:31476 [wandb_init.py:init():974] starting run threads in backend
+2026-07-20 00:34:38,642 INFO    MainThread:31476 [wandb_run.py:_console_start():2523] atexit reg
+2026-07-20 00:34:38,642 INFO    MainThread:31476 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-07-20 00:34:38,642 INFO    MainThread:31476 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-07-20 00:34:38,642 INFO    MainThread:31476 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-07-20 00:34:38,645 INFO    MainThread:31476 [wandb_init.py:init():1012] run started, returning control to user process
+2026-07-20 00:34:38,645 INFO    MainThread:31476 [wandb_init.py:_post_run_cell_hook():614] [no run ID] resuming backend
+2026-07-20 00:34:38,658 INFO    MainThread:31476 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-07-20 00:34:38,658 INFO    MainThread:31476 [wandb_init.py:_pre_run_cell_hook():603] [no run ID] pausing backend
+2026-07-20 00:34:38,661 INFO    MainThread:31476 [wandb_init.py:_post_run_cell_hook():614] [no run ID] resuming backend
+2026-07-20 00:34:38,676 INFO    MainThread:31476 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-07-20 00:34:38,676 INFO    MainThread:31476 [wandb_init.py:_pre_run_cell_hook():603] [no run ID] pausing backend
+2026-07-20 00:34:38,982 INFO    MainThread:31476 [wandb_init.py:_post_run_cell_hook():614] [no run ID] resuming backend
+2026-07-20 00:34:38,995 INFO    MainThread:31476 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-07-20 00:34:38,995 INFO    MainThread:31476 [wandb_init.py:_pre_run_cell_hook():603] [no run ID] pausing backend
+2026-07-20 00:34:38,997 INFO    MainThread:31476 [wandb_init.py:_post_run_cell_hook():614] [no run ID] resuming backend
+2026-07-20 00:34:39,010 INFO    MainThread:31476 [jupyter.py:save_ipynb():362] [no run ID] not saving jupyter notebook
+2026-07-20 00:34:39,010 INFO    MainThread:31476 [wandb_init.py:_pre_run_cell_hook():603] [no run ID] pausing backend

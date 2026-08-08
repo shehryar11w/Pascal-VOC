@@ -1,0 +1,36 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.13.14",
+  "startedAt": "2026-07-19T19:55:01.404240Z",
+  "program": "f:\\programming\\Python\\Deep Learning and LLMs\\Pascal-VOC\\model-faster-rcnn.ipynb",
+  "codePath": "f:\\programming\\Python\\Deep Learning and LLMs\\Pascal-VOC\\model-faster-rcnn.ipynb",
+  "codePathLocal": "model-faster-rcnn.ipynb",
+  "email": "shehryar11w@gmail.com",
+  "root": "f:\\programming\\Python\\Deep Learning and LLMs\\Pascal-VOC",
+  "host": "SHEHRYAR-PC",
+  "executable": "f:\\deps\\python\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "255832616960",
+      "used": "51401838592"
+    }
+  },
+  "memory": {
+    "total": "17059201024"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070",
+      "memoryTotal": "12878610432",
+      "cudaCores": 5888,
+      "architecture": "Ada",
+      "uuid": "GPU-0c17463b-abe6-857e-231a-51253c9344cf"
+    }
+  ],
+  "cudaVersion": "13.3",
+  "writerId": "qtrlfijttfzl8g3xkss2c6gwlfdbfy20"
+}
